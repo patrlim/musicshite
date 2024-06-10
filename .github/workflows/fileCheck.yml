@@ -1,0 +1,32 @@
+name: Run Script
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      - uses: jannekem/run-python-script-action@v1
+        with:
+          script: |
+            import os
+            json = open("songs.json","w")
+            json.write('{\n    "songs":[\n')
+            i = 0
+            for file in os.listdir():
+                i += 1
+                if file[-4:] != ".mp3":
+                    continue
+                json.write("        {\n" + '            "name":' + '"' + file.replace(".mp3","") + '"' + "\n")
+                json.write('            "url":' + '"' + 'https://github.com/Kandermann/KILO_E2_webAudioLIB/blob/main/' +file.replace(" ","%20") + '"' + "\n        }")
+                if i != len(os.listdir()):
+                    json.write(",")
+                json.write("\n")
+            json.write('    ]\n}')
