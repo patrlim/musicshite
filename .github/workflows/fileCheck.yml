@@ -25,7 +25,7 @@ jobs:
                 if file[-4:] != ".mp3":
                     continue
                 json.write("        {\n" + '            "name":' + '"' + file.replace(".mp3","") + '"' + "\n")
-                json.write('            "url":' + '"' + 'https://github.com/Kandermann/KILO_E2_webAudioLIB/blob/main/' +file.replace(" ","%20") + '"' + "\n        }")
+                json.write('            "url":' + '"' + 'https://github.com/patrlim/musicshite/tree/main/' +file.replace(" ","%20") + '"' + "\n        }")
                 if i != len(os.listdir()):
                     json.write(",")
                 json.write("\n")
