@@ -53,10 +53,6 @@
             "url":"https://github.com/patrlim/musicshite/raw/main/Daft%20Punk%20-%20Harder,%20Better,%20Faster,%20Stronger%20(Official%20Video).ogg"
         },
         {
-            "name":"Empires",
-            "url":"https://github.com/patrlim/musicshite/raw/main/Empires.ogg"
-        },
-        {
             "name":"Fall Out Boy - Centuries",
             "url":"https://github.com/patrlim/musicshite/raw/main/Fall%20Out%20Boy%20-%20Centuries.ogg"
         },
@@ -143,6 +139,10 @@
         {
             "name":"PiSk - Say What",
             "url":"https://github.com/patrlim/musicshite/raw/main/PiSk%20-%20Say%20What.ogg"
+        },
+        {
+            "name":"The Electric Swing Circus - Empires",
+            "url":"https://github.com/patrlim/musicshite/raw/main/The%20Electric%20Swing%20Circus%20-%20Empires.ogg"
         },
         {
             "name":"Valve - Portal Radio (Uncompressed)",
