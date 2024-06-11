@@ -9,12 +9,20 @@
             "url":"https://github.com/patrlim/musicshite/raw/main/ABBA%20-%20Gimme!%20Gimme!%20Gimme!%20(A%20Man%20After%20Midnight).ogg"
         },
         {
+            "name":"Alan Walker - Running Out Of Roses",
+            "url":"https://github.com/patrlim/musicshite/raw/main/Alan%20Walker%20-%20Running%20Out%20Of%20Roses.ogg"
+        },
+        {
             "name":"Bon Jovi - It's My Life",
             "url":"https://github.com/patrlim/musicshite/raw/main/Bon%20Jovi%20-%20It's%20My%20Life.ogg"
         },
         {
             "name":"Bon Jovi - Livin On A Prayer",
             "url":"https://github.com/patrlim/musicshite/raw/main/Bon%20Jovi%20-%20Livin%20On%20A%20Prayer.ogg"
+        },
+        {
+            "name":"Bon Jovi - You Give Love A Bad Name",
+            "url":"https://github.com/patrlim/musicshite/raw/main/Bon%20Jovi%20-%20You%20Give%20Love%20A%20Bad%20Name.ogg"
         },
         {
             "name":"Caravan Palace - Dragons",
@@ -45,6 +53,10 @@
             "url":"https://github.com/patrlim/musicshite/raw/main/Daft%20Punk%20-%20Harder,%20Better,%20Faster,%20Stronger%20(Official%20Video).ogg"
         },
         {
+            "name":"Empires",
+            "url":"https://github.com/patrlim/musicshite/raw/main/Empires.ogg"
+        },
+        {
             "name":"Fall Out Boy - Centuries",
             "url":"https://github.com/patrlim/musicshite/raw/main/Fall%20Out%20Boy%20-%20Centuries.ogg"
         },
@@ -61,16 +73,32 @@
             "url":"https://github.com/patrlim/musicshite/raw/main/Half-Life%202%20Episode%20Two%20OST%20-%20Vortal%20Combat.ogg"
         },
         {
+            "name":"In The End [Official HD Music Video] - Linkin Park",
+            "url":"https://github.com/patrlim/musicshite/raw/main/In%20The%20End%20[Official%20HD%20Music%20Video]%20-%20Linkin%20Park.ogg"
+        },
+        {
             "name":"James Shimoji - Pepsi Man Theme Song",
             "url":"https://github.com/patrlim/musicshite/raw/main/James%20Shimoji%20-%20Pepsi%20Man%20Theme%20Song.ogg"
         },
         {
-            "name":"Jamie Berry ft. Octavia Rose - Lost In The Rhythm",
-            "url":"https://github.com/patrlim/musicshite/raw/main/Jamie%20Berry%20ft.%20Octavia%20Rose%20-%20Lost%20In%20The%20Rhythm.ogg"
+            "name":"Jamie Berry, Octavia Rose - Light up the Night",
+            "url":"https://github.com/patrlim/musicshite/raw/main/Jamie%20Berry,%20Octavia%20Rose%20-%20Light%20up%20the%20Night.ogg"
+        },
+        {
+            "name":"Jamie Berry, Octavia Rose - Lost In The Rhythm",
+            "url":"https://github.com/patrlim/musicshite/raw/main/Jamie%20Berry,%20Octavia%20Rose%20-%20Lost%20In%20The%20Rhythm.ogg"
+        },
+        {
+            "name":"Ken Ashcorp - Absolute Territory",
+            "url":"https://github.com/patrlim/musicshite/raw/main/Ken%20Ashcorp%20-%20Absolute%20Territory.ogg"
         },
         {
             "name":"Kombii - Pokolenie",
             "url":"https://github.com/patrlim/musicshite/raw/main/Kombii%20-%20Pokolenie.ogg"
+        },
+        {
+            "name":"Linkin Park - Numb",
+            "url":"https://github.com/patrlim/musicshite/raw/main/Linkin%20Park%20-%20Numb.ogg"
         },
         {
             "name":"Minecraft OST - Otherside",
@@ -83,6 +111,18 @@
         {
             "name":"Odd Chap - Maths",
             "url":"https://github.com/patrlim/musicshite/raw/main/Odd%20Chap%20-%20Maths.ogg"
+        },
+        {
+            "name":"Odd Chap - Out Of My Mind",
+            "url":"https://github.com/patrlim/musicshite/raw/main/Odd%20Chap%20-%20Out%20Of%20My%20Mind.ogg"
+        },
+        {
+            "name":"Odd Chap - The Little Man Who Wasnt There",
+            "url":"https://github.com/patrlim/musicshite/raw/main/Odd%20Chap%20-%20The%20Little%20Man%20Who%20Wasnt%20There.ogg"
+        },
+        {
+            "name":"Odd Chap, Little Violet - Crazy Out There",
+            "url":"https://github.com/patrlim/musicshite/raw/main/Odd%20Chap,%20Little%20Violet%20-%20Crazy%20Out%20There.ogg"
         },
         {
             "name":"Persona 3 Reload OST - It's Going Down Now",
@@ -101,16 +141,12 @@
             "url":"https://github.com/patrlim/musicshite/raw/main/PiSk%20-%20Golden%20Sound.ogg"
         },
         {
-            "name":"The Little Man Who Wasnt There",
-            "url":"https://github.com/patrlim/musicshite/raw/main/The%20Little%20Man%20Who%20Wasnt%20There.ogg"
+            "name":"PiSk - Say What",
+            "url":"https://github.com/patrlim/musicshite/raw/main/PiSk%20-%20Say%20What.ogg"
         },
         {
             "name":"Valve - Portal Radio (Uncompressed)",
             "url":"https://github.com/patrlim/musicshite/raw/main/Valve%20-%20Portal%20Radio%20(Uncompressed).ogg"
-        },
-        {
-            "name":"You Give Love A Bad Name",
-            "url":"https://github.com/patrlim/musicshite/raw/main/You%20Give%20Love%20A%20Bad%20Name.ogg"
         }
     ]
 }
