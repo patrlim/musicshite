@@ -69,10 +69,6 @@
             "url":"https://github.com/patrlim/musicshite/raw/main/Half-Life%202%20Episode%20Two%20OST%20-%20Vortal%20Combat.ogg"
         },
         {
-            "name":"In The End [Official HD Music Video] - Linkin Park",
-            "url":"https://github.com/patrlim/musicshite/raw/main/In%20The%20End%20[Official%20HD%20Music%20Video]%20-%20Linkin%20Park.ogg"
-        },
-        {
             "name":"James Shimoji - Pepsi Man Theme Song",
             "url":"https://github.com/patrlim/musicshite/raw/main/James%20Shimoji%20-%20Pepsi%20Man%20Theme%20Song.ogg"
         },
@@ -91,6 +87,10 @@
         {
             "name":"Kombii - Pokolenie",
             "url":"https://github.com/patrlim/musicshite/raw/main/Kombii%20-%20Pokolenie.ogg"
+        },
+        {
+            "name":"Linkin Park - In The End",
+            "url":"https://github.com/patrlim/musicshite/raw/main/Linkin%20Park%20-%20In%20The%20End.ogg"
         },
         {
             "name":"Linkin Park - Numb",
@@ -139,6 +139,10 @@
         {
             "name":"PiSk - Say What",
             "url":"https://github.com/patrlim/musicshite/raw/main/PiSk%20-%20Say%20What.ogg"
+        },
+        {
+            "name":"T-Bros - Workaholic",
+            "url":"https://github.com/patrlim/musicshite/raw/main/T-Bros%20-%20Workaholic.ogg"
         },
         {
             "name":"The Electric Swing Circus - Empires",
